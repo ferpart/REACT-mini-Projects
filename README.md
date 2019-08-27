@@ -5,21 +5,24 @@ These are the projects generated throughout the **[Modern React with Redux](http
 
 * ### [components](./components "Components project")
 
-<p style="padding-left: 50px;"><strong>components</strong>, 
+<p style="margin-left: 50px">
+<strong>components</strong>, 
 is a project whose sole porpose is to show a random "comment" 
 section with an another object showing an approval/denial card. 
 </p>
 
 * ### [jsx](./jsx "JSX project")
 
-<p style="padding-left: 50px;"><strong>jsx</strong>
+<p style="margin-left: 50px">	
+<strong>jsx</strong>
 is a project whose purpose is doing basic testing of the jsx
 language.
 </p>
 
 * ### [pics](./pics "Pics Project")
 
-<p style="padding-left: 50px;"><strong>pics</strong>
+<p style="margin-left: 50px">
+<strong>pics</strong>
 pics is an ongoing project in which the user types something
 in the search bar, and with a use of the 
 <a href="https://unsplash.com/" title="Unisplash Home">Unisplash</a> 
@@ -29,7 +32,8 @@ of images found with the help of the api.
 
 * ### [seasons](./seasons "Seasons Project")
 
-<p style="padding-left: 50px;"><strong>seasons</strong>
+<p style="margin-left: 50px">
+<strong>seasons</strong>
 is a project in which depending the timezone, and local
 month the user, a certain message and image will be shown.
 </p>
