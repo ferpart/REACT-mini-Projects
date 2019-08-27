@@ -3,40 +3,48 @@
 
 These are the projects generated throughout the **[Modern React with Redux](https://www.udemy.com/react-redux/ "Modern React with Redux [2019 Update]")** course.
 
-* ### [components](./components "Components project")
+### Description
 
-<p style="margin-left: 50px">
-<strong>components</strong>, 
-is a project whose sole porpose is to show a random "comment" 
-section with an another object showing an approval/denial card. 
-</p>
+<ul>
+ <li>
+  <h3><a href="./components" title="Components Project">components</a></h3>
+  <p>
+   <strong>components</strong>, 
+    is a project whose sole porpose is to show a random "comment" 
+    section with an another object showing an approval/denial card. 
+  </p>
+ </li>
 
-* ### [jsx](./jsx "JSX project")
+ <li>
+  <h3><a href="./jsx" title="JSX Project">jsx</a></h3>
+  <p>	
+   <strong>jsx</strong>
+   is a project whose purpose is doing basic testing of the jsx
+   language.
+  </p>
+ </li>
 
-<p style="margin-left: 50px">	
-<strong>jsx</strong>
-is a project whose purpose is doing basic testing of the jsx
-language.
-</p>
+ <li>
+  <h3><a href="./pics" title="Pics Project">pics</a></h3>
+  <p>
+   <strong>pics</strong>
+   pics is an ongoing project in which the user types something
+   in the search bar, and with a use of the 
+   <a href="https://unsplash.com/" title="Unisplash Home">Unisplash</a> 
+   api return some images. At this point pics only retrurns the ammount
+   of images found with the help of the api.
+  </p>
+ </li>
 
-* ### [pics](./pics "Pics Project")
-
-<p style="margin-left: 50px">
-<strong>pics</strong>
-pics is an ongoing project in which the user types something
-in the search bar, and with a use of the 
-<a href="https://unsplash.com/" title="Unisplash Home">Unisplash</a> 
-api return some images. At this point pics only retrurns the ammount
-of images found with the help of the api.
-</p>
-
-* ### [seasons](./seasons "Seasons Project")
-
-<p style="margin-left: 50px">
-<strong>seasons</strong>
-is a project in which depending the timezone, and local
-month the user, a certain message and image will be shown.
-</p>
+ <li>
+ <h3><a href="./seasons" title="Seasons Project">seasons</a></h3>
+  <p>
+   <strong>seasons</strong>
+   is a project in which depending the timezone, and local
+   month the user, a certain message and image will be shown.
+  </p>
+ </li>
+</ul>
 
 ### Installation
 
