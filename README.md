@@ -53,20 +53,20 @@ These are the projects generated throughout the **[Modern React with Redux](http
    course. This project has multiple functions them being:
    <ul>
    <li>
-   <a href="./wizelineReact/src/components/clicker" title="Clicker folder">
+   <a href="./wizelineReact/src/components/Clicker" title="Clicker folder">
    clicker
    </a>
    : a component in charge of a single button with a click
    counter. 
    </li>
    <li>
-   <a href="./wizelineReact/src/components/clock" title="Clock folder">
+   <a href="./wizelineReact/src/components/Clock" title="Clock folder">
    clock
    </a>
    : a compontent that has an updating clock. 
    </li>
    <li>
-   <a href="./wizelineReact/src/components/welcome" title="Welcome folder">
+   <a href="./wizelineReact/src/components/Welcome" title="Welcome folder">
    welcome
    </a>
    : a compontent in charge of a welcome message using the
