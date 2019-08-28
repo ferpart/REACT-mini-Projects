@@ -44,6 +44,37 @@ These are the projects generated throughout the **[Modern React with Redux](http
    month the user, a certain message and image will be shown.
   </p>
  </li>
+ 
+ <li>
+   <h3><a href="./wizelineReact" title="Wizeline React Project">wizelineReact</a></h3>
+  <p>
+   <strong>wizelineReact</strong>
+   is a project that was developed within a wizeline react
+   course. This project has multiple functions them being:
+   <ul>
+   <li>
+   <a href="./wizelineReact/clicker" title="Clicker folder">
+   clicker
+   </a>
+   : a component in charge of a single button with a click
+   counter. 
+   </li>
+   <li>
+   <a href="./wizelineReact/clock" title="Clock folder">
+   clock
+   </a>
+   : a compontent that has an updating clock. 
+   </li>
+   <li>
+   <a href="./wizelineReact/welcome" title="Welcome folder">
+   welcome
+   </a>
+   : a compontent in charge of a welcome message using the
+   props system.
+   </li>
+   </ul>
+  </p>
+ </li>
 </ul>
 
 ### Installation
