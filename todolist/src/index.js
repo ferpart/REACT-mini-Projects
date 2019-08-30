@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ListElement from './ListElement'
+import ListComponent from './ListComponent/ListComponent'
 
 const App = () => {
     return (
-        <ListElement/>
+        <div className="ui segment">
+            <ListComponent/>
+        </div>
+        
     );
 };
 
