@@ -25,6 +25,15 @@ These are the projects generated throughout the **[Modern React with Redux](http
  </li>
 
  <li>
+  <h3><a href="./seasons" title="Seasons Project">seasons</a></h3>
+  <p>
+   <strong>seasons</strong>
+   is a project in which depending the timezone, and local
+   month the user, a certain message and image will be shown.
+  </p>
+ </li>
+ 
+ <li>
   <h3><a href="./pics" title="Pics Project">pics</a></h3>
   <p>
    <strong>pics</strong>
@@ -35,16 +44,21 @@ These are the projects generated throughout the **[Modern React with Redux](http
    of images found with the help of the api.
   </p>
  </li>
-
+ 
  <li>
- <h3><a href="./seasons" title="Seasons Project">seasons</a></h3>
+  <h3><a href="./todolist" title="To-Do List Project">todolist</a></h3>
   <p>
-   <strong>seasons</strong>
-   is a project in which depending the timezone, and local
-   month the user, a certain message and image will be shown.
+  <strong>todolist</strong>
+  is a an attempted project to do a fully front end based
+  to-do list in which the user is able to add new tasks.
+  after a task has been marked as done, it should be moved
+  to the "finished" section, said section should be avaiable
+  to the user on the click of a button. 
+  <br/><br/>
+  <em>***Currently only the adding of new tasks is avaiable.***</em>
   </p>
  </li>
- 
+
  <li>
    <h3><a href="./wizelineReact" title="Wizeline React Project">wizelineReact</a></h3>
   <p>
